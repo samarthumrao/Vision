@@ -1,0 +1,10 @@
+opencv-python
+ultralytics
+transformers
+torch
+pyttsx3
+Pillow
+fastapi
+uvicorn
+python-multipart
+pytesseract
