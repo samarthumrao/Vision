@@ -195,21 +195,11 @@ Special thanks to the creators of OpenCV and TensorFlow for their amazing librar
 
 -----
 
-\<div align="center"\>
-\<sub\>Built with ❤️ by Samarth Umrao\</sub\>
-\</div\>
+<div align="center"\>
+<sub\>Built with ❤️ by Samarth Umrao\</sub\>
+</div\>
 
 ```
 
-### Improvements made:
 
-1.  **Centered Header:** Added a centered header with a placeholder logo (which you can replace with \`
-
-[Image of computer vision logo]
-`or similar if you have a file) to make the repo look branded and official. 2.  **Unified Badges:** I cleaned up the badges, separated the "Status" badges (stars, forks) from the "Tech Stack" badges, and used a consistent style. 3.  **Collapsible ToC:** Used the`&lt;details&gt;`tag for the Table of Contents so it doesn't clutter the top of the page but is easily accessible. 4.  **Visual Layout:** Used a table for the "Features" section to make it easier to read than a simple list. 5.  **Gallery for Screenshots:** Arranged the screenshots side-by-side (using HTML width percentages) so they don't take up massive amounts of vertical scrolling space. 6.  **Directory Tree:** Added a`Project Structure\` tree visualization, which is standard for developer documentation.
-7\.  **Command Line Blocks:** Formatted the installation steps clearly with code blocks.
-
-### Next Step
-
-Would you like me to generate a `CONTRIBUTING.md` file or a `requirements.txt` template to go along with this README?
 ```
