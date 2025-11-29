@@ -196,10 +196,5 @@ Special thanks to the creators of OpenCV and TensorFlow for their amazing librar
 -----
 
 <div align="center"\>
-<sub\>Built with ❤️ by Samarth Umrao\</sub\>
+<sub\>Built with ❤️ by Samarth Umrao</sub\>
 </div\>
-
-```
-
-
-```
