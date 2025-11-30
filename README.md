@@ -161,17 +161,10 @@ If Tesseract is not installed in the default Windows location:
 
 -----
 
-\<div align="center"\>
+<div align="center"\>
 
 **See-Sense AI** — *Vision for Everyone.*
 
-\</div\>
+</div\>
 
-```
 
-### 3 Quick Tips to make this repo shine even more:
-
-1.  **Add a Header Image:** Create a simple banner in Canva or Figma with the text "See-Sense AI" and place it at the very top of the README using `![Banner](path/to/image.png)`.
-2.  **Screenshots:** In the "Overview" section, I left a comment block. If you take a screenshot of your React dashboard and put it in your repo, uncomment that line and link the image. Visuals make a huge difference.
-3.  **Update the URL:** In the "Clone the Repository" section, replace `your-username/see-sense-ai` with your actual GitHub username and repo name.
-```
