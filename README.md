@@ -165,6 +165,6 @@ If Tesseract is not installed in the default Windows location:
 
 **See-Sense AI** — *Vision for Everyone.*
 
-</div\>
+</div>
 
 
