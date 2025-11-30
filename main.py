@@ -9,7 +9,6 @@ import time
 
 # --- Configuration ---
 # DroidCam URL (Replace with your actual IP and Port from the app)
-# Example: "http://192.168.1.5:4747/video"
 # DROIDCAM_URL = "http://10.201.58.148:4747/video"
 DROIDCAM_URL = 0 # Use 0 for the default camera (DroidCam Client Virtual Camera) 
 
